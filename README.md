@@ -1,16 +1,14 @@
 # Health-Monitoring
 My 18-Week Project
 
-																	 Lloyd Willis
-																	 MSSA CAD
-																	 January 22, 2021
+																Lloyd Willis
+																MSSA CAD
+																January 22, 2021
 <p align="center">
   <b>Project Step 2</b><br>
   <b>Health Monitor</b><br>
   <br><br> 
 </p>
-# Project Step 2
-# Health Monitor
 
 		In today’s society everyone is concerned with living a long and healthy lifestyle.
 	Sometimes this can be very difficult, mainly because we are not committed in doing what it takes to make it happen.
@@ -20,17 +18,17 @@ My 18-Week Project
         	This Application for monitoring your health is just one aspect of showing your dedication and commitment.
         Hopefully with tracking your results and seeing progress with motivate you more into wanting to maintain this type of a lifestyle. 
         The basic foundation for this application will allow its user to input and track the following.
-		-	First name / Last name
-		-	Initial Weight
-		-	Height
-		-	Age
-		-	Blood pressure
-		-	Exercise completed 
-		-	Start time
-		-	End time
-		-	Meals…vegetables, fruits, fiber etc.
-		-	Calories (optional)
-		-	Cholesterol
+		*	First name / Last name
+		*	Initial Weight
+		*	Height
+		*	Age
+		*	Blood pressure
+		*	Exercise completed 
+		*	Start time
+		*	End time
+		*	Meals…vegetables, fruits, fiber etc.
+		*	Calories (optional)
+		*	Cholesterol
        Users would be able to track certain activities on a daily basis like the type of exercise they did and for how long.
        If they desire, they could record their pulse after exercise to ensure they not doing too much or too little.
        Users could track weekly intake of caffeine, fruits, proteins and so on.
