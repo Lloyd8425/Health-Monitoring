@@ -1,9 +1,12 @@
 # Health Monitoring
 ### My 18-Week Project
 
-															# Lloyd Willis
-															MSSA CAD
-															January 22, 2021
+<p align="right">
+<b>Lloyd Willis</b><br>
+<b>MSSA CAD</b><br>
+<b>January 22, 2021</b><br>
+</p>
+
 <p align="center">
   <b>Project Step 2</b><br>
   <b>Health Monitor</b><br>
