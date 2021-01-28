@@ -17,7 +17,7 @@
   <br><br> 
 </p>
 
-Introduction:
+### Introduction:
 	
 In today’s society everyone is concerned with living a long and healthy lifestyle.
 Sometimes this can be very difficult, mainly because we are not committed in doing what it takes to make it happen.
@@ -25,24 +25,24 @@ Living a long and healthy life means eating right and exercising on a regular ba
 Nothing in this world is for free, you have to put in the effort and you will see the results.
 	
 This Application for monitoring your health is just one aspect of showing your dedication and commitment.
-Hopefully with tracking your results and seeing progress with motivate you more into wanting to maintain this type of a lifestyle. 
+Hopefully with tracking your results and seeing progress will motivate you more into wanting to maintain this type of a lifestyle. 
 The basic foundation for this application will allow its user to input and track the following.
 	
-Application Data List:
+### Application Data List:
 	
-*First name / Last name
-*Initial Weight
-*Height
-*Age
-*Blood pressure
-*Exercise completed 
-*Start time
-*End time
-*Meals…vegetables, fruits, fiber etc.
-*Calories (optional)
-*Cholesterol
++ First name / Last name
++ Initial Weight
++ Height
++ Age
++ Blood pressure
++ Exercise completed 
++ Start time
++ End time
++ Meals…vegetables, fruits, fiber etc.
++ Calories (optional)
++ Cholesterol
 
-Correspondence:
+### Correspondence:
       
 Users would be able to track certain activities on a daily basis like the type of exercise they did and for how long.
 If they desire, they could record their pulse after exercise to ensure they not doing too much or too little.
