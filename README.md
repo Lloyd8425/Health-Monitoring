@@ -30,7 +30,7 @@ The basic foundation for this application will allow its user to input and track
 	
 ### Application Data List:
 	
-+ First name / Last name
+   + First name / Last name
 + Initial Weight
 + Height
 + Age
