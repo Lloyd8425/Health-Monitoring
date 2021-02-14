@@ -62,3 +62,4 @@ If a hacker can monitor your daily routines, then you the user could be very vul
 Administrator have to right to block / delete account if users violate terms and conditions. 
 Users have the ability to leave feedback as well as messaging admin with any bugs found within program.
 
+[Database Diagram](Health%20Monitor%20Database%20ER%20diagram.pdf)
